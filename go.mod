@@ -22,7 +22,7 @@ require (
 	github.com/prometheus/client_golang v1.11.0
 	github.com/spf13/afero v1.2.2
 	github.com/stretchr/testify v1.4.0
-	golang.org/x/net v0.0.0-20200625001655-4c5254603344
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20191202225959-858c2ad4c8b6 // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	google.golang.org/appengine v1.6.5 // indirect
